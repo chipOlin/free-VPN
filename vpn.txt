@@ -1,17 +1,2 @@
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.11.220:8443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#%25E2%259C%2585@AR14N24b
-vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@chatgpt.com:443?security=tls&type=ws&host=pedaratvpn.ar-ahmadiyan86.workers.dev&path=/eyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev&fp=chrome#%2525253E%2525253E%25252540v2ray1_ng%2525253A%2525253AUS
-vless://ed0e05af-49ab-4ea8-a39c-634855811b03@104.24.68.193:443?allowInsecure=1&encryption=none&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&path=ws&security=tls&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&type=ws#%2525F0%25259F%25259B%25258495@oneclickvpnkeys
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.7.2:443?allowInsecure=1&alpn=h3&encryption=none&host=m1.mwu.de5.net&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=m1.mwu.de5.net&type=ws#%25253E%25253E%252540oneclickvpnkeys%25253A%25253AUS
-vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#@monacoVPN
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@108.162.194.96:443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#%25E2%259A%25A1Telegram%2520=%2520@SOSkeyNET
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.16.94:8443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#%25E2%259A%25A1Telegram%2520=%2520@SOSkeyNET
-trojan://ZY07256934@glowing-deer.rooster465.autos:443?type=tcp&security=tls&sni=glowing-deer.rooster465.autos&fp=chrome&allowInsecure=1#@v2rayconfigamir%2525207919
-vless://df4f171a-b4f2-40ee-9a00-c3090e29b490@151.101.1.194:80?encryption=none&type=xhttp&mode=auto&host=zwolfz.global.ssl.fastly.net&path=/wolfi?ed=512&security=none#%2525252525E2%25252525259C%252525252585@AR14N24b
-trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=/amd&type=ws#%25F0%259F%259B%25B891@oneclickvpnkeys
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?security=tls#%2525E2%25259A%2525A1Telegram%252520=%252520@SOSkeyNET
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@172.64.53.96:8443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&alpn=h3&host=m1.mwu.de5.net&type=ws&sni=m1.mwu.de5.net#%25E2%259C%2585@AR14N24b
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chatgpt.com:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&type=ws#%F0%9F%9B%B884@oneclickvpnkeys
-vless://3cc7c3a4-03a7-11f1-9bc0-0242ac110002@fr1.cyphervpn.pro:443?encryption=none&fp=chrome&pbk=FfpoYFgT2DmVE8wpXv0ncw9YTdVduwH3qetnke0LMDU&security=reality&sid=5bfa0c&sni=fr1.cyphervpn.pro&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
-vless://1027b850-de79-4a94-b337-eccdac28e141@chatgpt.com:443?encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#%253E%253E%2540oneclickvpnkeys%253A%253AIN
-trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me/ripaojiedian#%F0%9F%9B%B895@oneclickvpnkeys
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#@V2RAYROZ 🐥🌷
+vless://df4f171a-b4f2-40ee-9a00-c3090e29b490@151.101.1.194:80?encryption=none&type=xhttp&mode=auto&host=zwolfz.global.ssl.fastly.net&path=/wolfi?ed=512&security=none#%252525252525E2%2525252525259C%25252525252585@AR14N24b
+trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me/ripaojiedian#%25F0%259F%259B%25B895@oneclickvpnkeys
