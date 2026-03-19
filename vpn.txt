@@ -1,2 +1,4 @@
 vless://df4f171a-b4f2-40ee-9a00-c3090e29b490@151.101.1.194:80?encryption=none&type=xhttp&mode=auto&host=zwolfz.global.ssl.fastly.net&path=/wolfi?ed=512&security=none#%252525252525E2%2525252525259C%25252525252585@AR14N24b
 trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me/ripaojiedian#%25F0%259F%259B%25B895@oneclickvpnkeys
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?type=ws&security=tls&encryption=none&sni=zgtwylnhh.cc.cd&path=Telegram&host=zgtwylnhh.cc.cd#%25253E%25253E%252540v2nodes%25253A%25253AUS
+vless://1027b850-de79-4a94-b337-eccdac28e141@chatgpt.com:443?encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#%25253E%25253E%252540oneclickvpnkeys%25253A%25253AIN
